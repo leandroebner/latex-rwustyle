@@ -1,0 +1,13 @@
+.*
+!.gitignore
+*~
+*.aux
+*.bak
+*.lof
+*.lot
+*.nav
+*.out
+*.pdf
+*.snm
+*.toc
+*.vrb
